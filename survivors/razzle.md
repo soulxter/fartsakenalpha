@@ -17,12 +17,14 @@ Passives:
 Abilities:
 
 → Luckshow (Q Keybind)
+Cooldown: 19s
 Razzle takes out his 3 balls, throwing each of them in the air.
 - He has 60% chance to catch all of them and gain speed 2 for 2 seconds.
 - He has %40 chance to fail catching all of them and gain slowness 1 for 1 second.
 
 
 → Catch Me (E Keybind)
+Cooldown: 34s
 Razzle has a 0.5s wind up before dashing backward.
 - If he manages to succesfully bump into the killer, the killer gets knockbacked 20 studs away.
 - If he fails to bump into the killer, he will ragdoll for 1.5s.
