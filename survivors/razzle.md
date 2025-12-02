@@ -2,6 +2,13 @@ Name: Razzle
 Difficulty: ★ ★ 
 Survivor Type: Survivalist 
 
+Stats:
+
+Health: 95
+Max Stamina: 100
+Stamina Drain: 10.3
+Stamina Regain: 20
+
 Passives:
 
 → Annoying Pal
